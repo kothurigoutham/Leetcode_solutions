@@ -10,7 +10,8 @@ class Solution {
         count=1;
       }
       max_len=  Math.max(max_len,count);
-      }  
+      } 
+      int  max=max_len; 
       return max_len;
     }
 }

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Geometry
 |  |
 | ------- |

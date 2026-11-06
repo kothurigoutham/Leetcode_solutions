@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -39,20 +40,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -102,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

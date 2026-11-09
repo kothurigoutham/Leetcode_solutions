@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -106,9 +107,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kothurigoutham/Leetcode_solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
